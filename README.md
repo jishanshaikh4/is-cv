@@ -1,4 +1,6 @@
 # is-cv
+[![Hits-of-Code](https://hitsofcode.com/github/jishanshaikh4/jaam)](https://hitsofcode.com/view/github/jishanshaikh4/jaam)
+
 [MORE DETAIILS WILL BE UPLOADED SOON]
 
 Abstract Paper:
